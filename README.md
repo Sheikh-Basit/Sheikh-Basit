@@ -15,7 +15,6 @@ Sheikh-Basit/Readme.md
   <!-- GitHub Stats + Contributions + Streak -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Sheikh-Basit&show_icons=true&theme=radical&count_private=true" height="150"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sheikh-Basit&theme=radical" height="150"/>
     <img src="https://streak-stats.demolab.com?user=Sheikh-Basit&theme=radical" height="150"/>
   </div>
 
@@ -32,7 +31,7 @@ Sheikh-Basit/Readme.md
   <!-- Most Used Languages -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Basit&layout=compact&theme=radical" height="200"/>
-    
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sheikh-Basit&theme=radical" height="150"/>
   </div>
  
 
