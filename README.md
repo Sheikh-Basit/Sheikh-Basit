@@ -85,7 +85,7 @@ Sheikh-Basit/Readme.md
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/yourusername">
+  <a href="https://www.instagram.com/sheikhbasit864/?utm_source=qr&igsh=OHpmNmN6aHpmbHRx#">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
